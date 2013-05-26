@@ -1,0 +1,4 @@
+HiddenTabBar
+============
+
+UITabBarController with UITabBarHidden
