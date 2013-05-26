@@ -4,7 +4,7 @@ HiddenTabBar
 Description
 ------------
 
-UITabBarController with UITabBarHidden
+UITabBarController with UITabBar hidden
 
 How to do it
 -------------
