@@ -77,7 +77,7 @@
         <!--Second View Controller-->
         <scene sceneID="9MN-9I-FcA">
             <objects>
-                <viewController id="tQX-7u-alJ" customClass="SecondViewController" sceneMemberID="viewController">
+                <viewController hidesBottomBarWhenPushed="YES" id="tQX-7u-alJ" customClass="SecondViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="p78-Ou-R5d"/>
                         <viewControllerLayoutGuide type="bottom" id="KVV-pY-CIx"/>
@@ -116,7 +116,7 @@
         <scene sceneID="6lm-Db-TVn">
             <objects>
                 <tabBarController definesPresentationContext="YES" id="4cL-O1-ej1" sceneMemberID="viewController">
-                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <nil key="simulatedBottomBarMetrics"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="sTG-Rw-kNX">
                         <rect key="frame" x="129" y="330" width="163" height="49"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
